@@ -1,0 +1,14 @@
+.navbar{
+    width: 98%;
+    height: auto;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    padding: 1%;
+}
+
+h1{
+    letter-spacing: 5px;
+    text-decoration: double;
+    text-decoration-line: underline;
+}
